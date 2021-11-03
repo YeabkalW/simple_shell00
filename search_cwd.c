@@ -45,3 +45,4 @@ char *search_cwd(char *filename, char *er)
 	closedir(dir);
 	return (er);
 }
+
