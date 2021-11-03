@@ -107,7 +107,7 @@ $ exit
 
 
 ### To Do
-* More functionality can still be added (e.g. handle aliases, pipelines, and redirections)
+* More functionality can still be added (e.g. handle aliases, pipelines, and redirections and many more)
 
 ---
 ### Authors
